@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kevofthebum1
-- 👀 I’m interested in becoming a Data Analyst to persue my dream career as a Biostatistician.
-- 🌱 I’m currently learning Python, SQL, and Tableau.
+- 👋 Hi, I’m Kevin Luu
+- 👀 I’m interested in finding jobs relating to being Data Analyst to persue my dream career as a Biostatistician.
+- 🌱 I’m currently learning Python, SQL, Tableau, and Microsoft Excel.
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: Kevyumba97#9656 on Discord
 
